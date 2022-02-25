@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sundry queries formerly tendred to the ministers of London for clearing the doctrine of the Fourth Commandment and the Lord's Sabbath-day but now tendred to the consideration of all men.</title>
+            <author>Saller, William, d. ca. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60379</idno>
+            <idno type="STC">Wing S400</idno>
+            <idno type="STC">ESTC R26226</idno>
+            <idno type="EEBO-CITATION">09390905</idno>
+            <idno type="OCLC">ocm 09390905</idno>
+            <idno type="VID">42955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1315:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sundry queries formerly tendred to the ministers of London for clearing the doctrine of the Fourth Commandment and the Lord's Sabbath-day but now tendred to the consideration of all men.</title>
+                  <author>Saller, William, d. ca. 1680.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W. Saller.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ten commandments --  Sabbath.</term>
+               <term>Sabbath.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="preface">
+            <pb facs="tcp:42955:1"/>
+            <head>Sundry <hi>QUERIES</hi> formerly tendred to the Miniſters of <hi>London,</hi> for clearing the Doctrine of the fourth Commandment, and the Lord's SABBATH-DAY; but now tendred to the Conſideration of all Men.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>THis little Piece was printed about the year</hi> 1653, <hi>with the Advice and Aſſiſtance of that Reverend Miniſter of Chriſt, Mr.</hi> H. Jeſſe, <hi>whoſe the two laſt Queries be; and many of them were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and iſſued to the Miniſters in and about the City of</hi> London, <hi>both Pariſh-Preachers, and Paſtors of the Congregated Churches, for their Conviction or Anſwer, (which I could not but give ther notice of otherwiſe ſome of the Paſſages of it would ſeem ſtrange to thee); but to this day no Anſwer is come from any of them, nor any Conviction wrought in them, that hath prevailed to produce amendment of life.</hi> Reader, <hi>The great Requeſt I have to thee is this, That in reading of my following lines, thou labour to get a plain honeſt heart, and then a ſwall matter more I think will make thee and I of one mind about the keeping of the Sabbath-day. So ſubſcribes thy well-wiſhing friend to love and ſerve thee.</hi>
+            </p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>
+               <hi>Query</hi> 1.</head>
+            <p>WHether the fourth Commandment, expreſt <hi>Exod</hi> 20. be not <hi>Moral</hi> and per<g ref="char:EOLhyphen"/>petual, as well as the other nine be, yea or no?</p>
+            <p>
+               <hi>Quer.</hi> 2. Whether the ſcope and drift of that fourth Precept, be not to perſwade us to lay by the works of our calling <hi>one day in ſeven,</hi> that we may on that day wholly give up our ſelves to wait on the Lord, in the performance of du<g ref="char:EOLhyphen"/>ties of piety and mercy, for our attaining of and growing in ſanctification and holi<g ref="char:EOLhyphen"/>neſs?</p>
+            <p>
+               <hi>Quer.</hi> 3. Whether the fourth Precept, do not as ſtrictly bind us to keep holy <hi>the ſeventh day,</hi> of, or from the Creation, as it bindeth us to the obſervation of a <hi>ſeventh day?</hi>
+            </p>
+            <p>
+               <hi>Quer.</hi> 4. If the ſeventh days Sabbath, be not <hi>Moral</hi> and perpetual, then how comes it to paſs that it was inſtituted, or appointed from the firſt Creation, when man by guilt ſtood in no need of a Saviour, nor yet of ſuch a ceremony, <hi>Gen.</hi> 2.3?</p>
+            <p>
+               <hi>Quer.</hi> 5. If the ſeventh days Sabbath be not <hi>Moral,</hi> and belonging both to Jews and to Gentiles: Then how comes it to paſs that it was given to all men in <hi>Adam,</hi> when there was no difference between Jew and Gentile, and was obſerved by command from the beginning, as appears by comparing together, <hi>Gen.</hi> 2.3. and <hi>Exod.</hi> 16.18. <hi>to</hi> 31?</p>
+            <p>
+               <hi>Quer.</hi> 6. If when our Lord Jeſus ſaith, <hi>Mat.</hi> 5.18. <hi>that till heaven and earth paſs, one jot or tittle ſhould in no wiſe paſs from the Law;</hi> If he meant not the Law of the ten Commandements, expreſt in <hi>Exod.</hi> 20. then what Law did he mean?</p>
+            <p>
+               <hi>Quer.</hi> 7. If the ſeventh days Sabbath be not <hi>Moral,</hi> but an abrogated ceremony now ſince the death of Chriſt; then wherefore ſhould our Saviour inſtruct his beloved A<g ref="char:EOLhyphen"/>poſtles, to pray, <hi>Mat.</hi> 24.20. <hi>that they might not fly on the Sabbath,</hi> knowing that their flight would fall out more than thifty years after his death?</p>
+            <p>
+               <hi>Quer.</hi> 8. If there be a day inſtituted or appointed for holy, inſtead of the Sabbath, without a word or warrant from God: how much doth this come ſhort of will-wor<g ref="char:EOLhyphen"/>ſhip?</p>
+            <p>
+               <hi>Quer.</hi> 9. If there be any word from the Lord, or from any of his Apoſtles, Pro<g ref="char:EOLhyphen"/>phets, or Evangeliſts for the changing of the day; from which of them is it, or where is it written?</p>
+            <p>
+               <hi>Quer.</hi> 10. If there be no text of Scripture that warrants the changing of Gods holy reſt, from the ſeventh day to the firſt day of the week, wherefore ſhould we follow <hi>Rome</hi> the Mother of Hariots in this unwarrantable practice?</p>
+            <p>
+               <hi>Quer.</hi> 11. If there be never ſo weighty reaſons found in the judgments of men, for the changing of the day, whether is that a ſufficient ground to change it without a word from God?</p>
+            <p>
+               <hi>Quer.</hi> 12. Whether you find any part of all the new Teſtament, or any Chriſtian Author for one thouſand five hundred years after Chriſt, that in any Book or writing, or relation at any time did call the firſt day of the week the Sabbath day: if ſo, ſhew who, and in what Book or writing it is ſo?</p>
+            <p>
+               <hi>Quer.</hi> 13. Whether you find not that as in all the New Teſtament, which was all written after Chriſts death, for the uſe of all Chriſtians to the Worlds end, ſo alſo in all <hi>Latine</hi> and <hi>Greek</hi> Chriſtian <hi>Authors,</hi> the ſeventh day, (which now from the heathens cu<g ref="char:EOLhyphen"/>ſtom is named Saturday) is always, in all their writings both Civil and Eccleſiaſtical, called <hi>Dies Sabbati;</hi> as well as in all the <hi>Parliament-Rolls</hi> of <hi>England,</hi> and what that Providence ſpeaks forth, that they never made ſo bold with that day, as they did with all other days, to which they gave heatheniſh names, may be conſidered.</p>
+            <p>Beloved and much honoured, the reaſons of my troubling you with this great buſi<g ref="char:EOLhyphen"/>reſs at this time, is, the weight and worth of this truth; for the knowledg of the <hi>Lord's Sabbath,</hi> and the holy obſervation of it, doth eminently tend to our help and futher<g ref="char:EOLhyphen"/>ance in Sanctification and holineſs; and there be very gracious promiſes made to them that ſhall ſanctifie the Sabbath, <hi>Iſa.</hi> 56.2, 3, 4, 5, 6, 7. and 58.13, 14, &amp;c. which makes me eſteem it a truth of great worth.</p>
+            <p>But Secondly, I find the judgments of men very much at a loſs about the Sabbath: <hi>Some</hi> ſaying that the Sabbath is now aboliſhed, and ſo there is none ſince the coming of Chriſt; neither are we bound to keep any day holy now. <hi>Some others</hi> there be as learned as any, and the moſt conſiderable for numbers that ſay the old Sabbath is aboliſhed by the Church; and the firſt day of the week is made holy inſtead thereof; and that the Church hath, authority ſo to do. A <hi>Third ſort</hi> of men there be which ſay, the day was changed by Chriſt, for the honour of the work of Redemption. Now I do freely ac<g ref="char:EOLhyphen"/>knowledge unto you, that with none of theſe three opinions I am at preſent ſatisfied.</p>
+            <p>For the <hi>Firſt of them,</hi> I cannot eaſily believe that that Law which was given at the Cre<g ref="char:EOLhyphen"/>ation, <hi>Gen.</hi> 2.2, 3. and was ſpoken by the Lord's voice from heaven, out of the midſt of the fire, <hi>Exod.</hi> 19.20. <hi>Deut.</hi> 4.12, 13. and 5.22, 23, 24. and which alone was writ with his own fingers in Tables of Stone to be kept in the Ark, and that are ſo carefully diſtinguiſhed by <hi>Moſes,</hi> from the Statutes and Judgments which he taught <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> and hath deſcribed them by the name of <hi>Ten Commandments, Exod</hi> 31.18. and 32.15, 16. and 34.28. <hi>Deut</hi> 4.13, 14. and 5.22. and 9.10, 11, 15, 17. and 10.1, 2, 3, 4, 5. ſhould be any of them aboliſhed: I muſt have better ground to believe it, than any at preſent I ſee, or elſe I cannot believe it.</p>
+            <p>The <hi>Second opinion</hi> ſeems to me altogether as bad, or worſe than the former: that the Church ſhould have any ſuch power in works of this nature ſeems to me altogether un<g ref="char:EOLhyphen"/>likely, the Lord ſo frequently forbidding her, to add to his word, or diminiſh from it, <hi>Deut.</hi> 4.2. <hi>and</hi> 12.32. <hi>Joſh.</hi> 1.7. <hi>Prov.</hi> 30.6. <hi>Rev.</hi> 22.18, 19. Again, Chriſt is ſaid to be <hi>in all things head to the Church,</hi> Epheſ. 1.22. <hi>and we have one Lawgiver,</hi> Jam. 4.12. we read of no more. Again, <hi>the tranſgreſſing of the Commandments of God, to bring in the Traditions of men,</hi> was <hi>vain Worſhip</hi> in Chriſts time, and ſo condemned by him, <hi>Mat.</hi> 15.3, 6, 9. and therefore a ſin now ſure: and if this change muſt be ad<g ref="char:EOLhyphen"/>mitted of as good, upon this account; I ſee not how we can avoid falling back to <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> again, and receiving all <hi>Romes</hi> traditions, although never ſo contrary to the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <p>To the <hi>Third Opinion</hi> I am as hard to be reconciled as to the Former. Firſt, becauſe I find no word in the Scriptures evidencing this, that Chriſt did change the day. Se<g ref="char:EOLhyphen"/>condly, or that any of his followers did it by his Authority, nor yet the leaſt mention made of any ſuch <hi>reaſon</hi> in the word, as <hi>the work of Redemption,</hi> or the <hi>reſurrection of Chriſt,</hi> as a cauſe of the change thereof, but that the Church in its Apoſtacy did change it, I doubt not, as ſhe hath done all other the Lord's holy Ordinances; but that there is any the leaſt warrant from the Word of Truth for her ſo doing, is all the doubt. But further, the Scriptures are flat againſt it, our Saviour would not have us <hi>think he came about any ſuch buſineſs,</hi> Mat. 5.17, 18, 19. Therefore I do beſeech you all in the fear of God, take this matter into your ſerious conſideration, and ſhew ſome good ground from the Scriptures for your <hi>neglect of keeping the Lords Holy Sabbath,</hi> and your ſuffering the people to live in this great ſin, of making the <hi>Lords Holy day,</hi> their <hi>greatest working day,</hi> through the whole Nation; or elſe repent your ſelves, and perſwade the people to repentance alſo, as you will anſwer it at the great Day of account.</p>
+            <p>But now, becauſe there is ſome ſhew of proof brought for this <hi>Third and laſt Opinion,</hi> therefore I will examine it before I leave it. And as for what is alledged from <hi>Job.</hi> 20.19. it can be no proof of their keeping the <hi>firſt day</hi> of the week as a <hi>Sabbath,</hi> although they met together, for in <hi>Luk.</hi> 24.11, 13. it appeareth evidently they did not believe that Chriſt was riſen from the dead, therefore they could not keep the day by his ap<g ref="char:EOLhyphen"/>pointment for the honour thereof.</p>
+            <p>Secondly, two of the Diſciples went a journey of <hi>threeſcore furlongs</hi> that ſame day, which going and coming was not leſs than <hi>fifteen miles,</hi> too much for a <hi>Sabbath-days jour<g ref="char:EOLhyphen"/>ney,</hi> when it is to go from the aſſembly of the Saints. And they kept the day next before it holy, <hi>Luke</hi> 23.56. and it is not like they kept two Sabbaths together. And as for what is alledged from <hi>verſe.</hi> 26. that <hi>he appeared to them again after eight days,</hi> it needs no more anſwer but this; That if it were after eight days, as the text ſaith it was, then it could not be <hi>upon the eighth day,</hi> and ſo it can be no proof in that caſe: and as for what is affirmed by ſome, that all Chriſts appearings after he aroſe were on the <hi>firſt days of the week;</hi> I ſay it wants proof from the Scripture: but if it were ſo, it would be ſo far from proving it a <hi>Sabbath,</hi> that it would prove the contrary: For the third time in <hi>John</hi> of his appearing to them, he found ſome of them a <hi>fiſhing,</hi> and he reproved them not, but ſet them to work, <hi>look John</hi> 21. <hi>from the</hi> 1. <hi>to the</hi> 15. And as for that Text, <hi>Acts.</hi> 20.7. I ſay thus, it is to be inquired of them that bring this Text, to prove that the Sabbath is changed, whether the breaking of <hi>Bread</hi> here, muſt needs be meant of the <hi>Lord's Sup<g ref="char:EOLhyphen"/>per,</hi> or may it not rather be underſtood of common eating? ſeeing breaking of bread is as well uſed for common eating, as in <hi>Acts.</hi> 2.46. But it ſeems more likely for this reaſon alſo, becauſe <hi>Paul</hi> was to take his leave of them on the morrow morning. But that which is moſt clear againſt this opinion is, the ſeaſon in which they brake bread, it being after midnight, not an uſual hour for this duty of remembring of Chriſt's death and as may appear, was not done as a Sabbath-days work: for if they met in the day-light before, and kept it a Sabbath, then this after-midnight in which they <hi>brake bread,</hi> could be no Sabbath, it belonging to the ſecond day of the week; for this is evident by Scrip<g ref="char:EOLhyphen"/>ture, that the night of every day goeth before the day, <hi>Gen.</hi> 1.2, 5, 8, 13, 19, 23, 31. <hi>Lev.</hi> 23.32. <hi>But</hi> if they met in the <hi>night</hi> of the firſt day of the week that goeth before the day light, and is part of that day; then it is evident that the firſt day of the week is no Sabbath, becauſe <hi>Paul</hi> ſet forward on his journey in that very morning, and ſo this Text falls ſhort of being any proof of the change of the Sabbath likewiſe.</p>
+            <p>Alſo it might be inquired, whether that word <hi>Preached</hi> that is there put in, in <hi>Acts.</hi> 20. be properly tranſlated or no, and whether the ſame word in all other places, be not always tranſlated <hi>diſcourſed,</hi> or <hi>reaſoned,</hi> and never tranſlated <hi>Preached,</hi> and if general<g ref="char:EOLhyphen"/>ly ſo <hi>tranſlated,</hi> then was it not ſo improperly tranſlated here, as if <hi>it</hi> ſhould <hi>prove the firſt day of the week to be kept a Sabbath,</hi> for want of clearer or better proof?</p>
+            <p>There is yet a Text more brought, 1 <hi>Cor.</hi> 16.1, 2. to prove <hi>a changing of the Sabbath</hi> alſo, but it is commonly alledged with this addition, <hi>when you meet together</hi> on the firſt day of the week, juſt as if it were ſo written in the Text indeed: whereas there is not one word of the <hi>Churches meeting,</hi> or <hi>coming together</hi> in the Text, but only of <hi>each mans lay<g ref="char:EOLhyphen"/>ing aſide by him in ſtore</hi> ſomething for the poor Saints at <hi>Jeruſalem, according as God bad proſpered him,</hi> that ſo at <hi>Paul's</hi> next coming to them, their charity might be ready to be ſent away. So that in this Text there is no room for any man to prove that on the <hi>firſt day</hi> of the week here was any <hi>Church-meeting or Sabbaths-days-work</hi> appointed to be done, but rather a <hi>conſidering</hi> what good bargains had been made the week before, <hi>and a looking over Shop-books and caſting up Accounts,</hi> to ſee <hi>how God had bleſſed their labours the week before,</hi> and what might be ſpared out of their gains, to make a purſe for the poor Saints of <hi>Jeruſalem;</hi> this is the clear import of this Text, for how elſe ſhall men <hi>lay by them accordingly as God hath proſpered them,</hi> unleſs they take <hi>account how he hath proſpered them?</hi> now <hi>Paul</hi> appointing this work to be done upon the <hi>firſt day of the week</hi> it ſhews plainly that the day is no Sabbath; and it is moſt likely it was ſo appointed, to prevent the doing of it at the latter end of the week, leſt it ſhould occaſion their intrenching up<g ref="char:EOLhyphen"/>on the Sabbath for the doing of it.</p>
+            <p>There is alſo one other Text, that is ſummoned in commonly to appear for proving the change of the <hi>Sabbath</hi> from the ſeventh day to the firſt day of the week. <hi>Rev.</hi> 10. <hi>I was in the ſpirit on the Lords day.</hi> Now by what rule of Scripture theſe men call the firſt day of the week the <hi>Lord's day,</hi> I know not, no text of Scripture that ever I read of, ever knew it by that name yet, or by any other name but only this, <hi>the firſt day of the week;</hi> but indeed the <hi>ſeventh day</hi> is known by the name of the <hi>Lords Day</hi> very well in the Scriptures; the Lord himſelf gave it this name, <hi>Exod.</hi> 20.10. and the Prohet <hi>Iſaiah</hi> knew it by this name, <hi>Iſa.</hi> 58.13. So that if we will per<g ref="char:EOLhyphen"/>mit the Scriptures to be judge in this cafe, they will give the name of the <hi>Lord's day</hi> to the <hi>ſeventh day.</hi> But if we will needs have the <hi>firſt day of the week</hi> to bear away this noble title, it muſt have it from ſome old tradition; only now it is not hard for me to believe, that the Church might ſoon corrupt her ſelf and ſuperſtitiouſly obſerve the <hi>firſt day of the week</hi> for the honour of Chriſt's Reſurrection, as tradition gives us an account they did obſerve the ſixth day alſo for the honour of his death; for in how ſhort a time did the true Church of God miſcarry, as far as this comes to, and drew <hi>Aaron</hi> the High Prieſt into the ſnare with them for company, in making a day holy to the Lord, <hi>Exod.</hi> 32.5, 6. So alſo might the Church ſoon after the Apoſtles death, ſet a<g ref="char:EOLhyphen"/>part the <hi>firſt day</hi> of the week upon a Godly intention, and yet upon ſome fuperſtitious account; &amp; when they had ſo done, it would not be at all hard to honour it with the name of the <hi>Lords day.</hi> But further; the <hi>Papiſts</hi> themſelves confeſs in their Commentary upon this very Text, <hi>That the firſt day of the week is kept holy by tradition, and not by authority of Scriptures;</hi> alſo from Eccleſiaſtical hiſtory, <hi>Socrates Book.</hi> 5. <hi>Chap.</hi> 21. it is plain, that <hi>all Churches came together to break bread in</hi> re<g ref="char:EOLhyphen"/>membrance of Chriſt's death <hi>on the Sabbath day</hi> for ſome hundreds of years after Chriſt; but <hi>the Church of Rome, &amp;c.</hi> which (ſaith the hiſtory) <hi>uſed to do it on the firſt day of thee week, upon an old tradition.</hi> So that if men be willing to ſee from whence the changing of the day came, it will not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hard to find it out.</p>
+            <p>For the other two Opinions I ſhall not at preſent trouble my ſelf further with them, till I ſee an anſwer to this.</p>
+            <p>So leaving my writings to your reading and conſideration, I remain,</p>
+            <closer>
+               <signed>
+                  <hi>Your ſervant, and the ſervant of all men, for the Truth's ſake,</hi>
+W. SALLER.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Bleſſed is the man that doth this, and the ſon of man that layeth hold on it; that keepeth the Sab<g ref="char:EOLhyphen"/>bath from polluting it, and keepeth his hand from doing any evil.</hi> Iſa. 56.2.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
